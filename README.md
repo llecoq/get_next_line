@@ -23,6 +23,11 @@
 - [What's included](#whats-included)
 - [Creators](#creators)
 
+
+## Quick start
+
+get_next_line with bonus.
+
 ## What's included
 
 ```
@@ -39,11 +44,6 @@ get_next_line
 ├── get_next_line_utils.c
 └── get_next_line_utils_bonus.c
 ```
-
-
-## Quick start
-
-get_next_line with bonus.
 
 ## Creators
 
