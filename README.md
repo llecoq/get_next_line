@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://42lyon.fr/">
-    <img src="https://github.com/llecoq/get_next_line/blob/main/assets/final%20grade.png" alt="get_next_line" width=200 height=171>
+    <img src="https://github.com/llecoq/get_next_line/blob/main/assets/final%20grade.png" alt="get_next_line" width=200 height=170>
   </a>
 
   <h2 align="center">ft_printf</h2>
